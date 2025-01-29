@@ -5,7 +5,7 @@ Welcome to Spotify API Analysis! This project explores trends in song and album 
 If you're curious about what makes an album or song a hit, this analysis provides data-backed insights into the music industry's evolving landscape.
 
 ## Data Collection Methodology 🌐  
-Data was collected via the Spotify API, focusing on albums, songs, and artists from 2024 releases. The retrieved data includes:  
+Data was collected via the Spotify API using the Spotipy library, focusing on albums, songs, and artists from 2024 releases. The retrieved data includes:  
 
 - Album details (e.g., track count, popularity)  
 - Song-level data (e.g., track popularity, duration, featured artists)  
@@ -64,7 +64,7 @@ jupyter notebook
 
 ## Acknowledgments 🙏  
 
-Special thanks to Spotify for Developers for providing API access and making this analysis possible!  
+Special thanks to Spotipy for providing a Python client that simplifies access to the Spotify API, and to Spotify for Developers for granting API access, making this analysis possible!
 
 If you’d like to discuss or collaborate on future enhancements, feel free to reach out!
 
