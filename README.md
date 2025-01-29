@@ -62,13 +62,10 @@ jupyter notebook
 - Dive deeper into genre analysis by overcoming the limitations of Spotify’s genre assignments to enhance accuracy.
 - Develop machine learning models to predict album popularity based on historical trends and insights.
 
-## Contributing 🌟  
-
-Found something interesting? Want to add improvements? Feel free to fork the repository and submit a pull request!  
-For questions or suggestions, contact me at [diego.fernandezarista@gmail.com].  
-
 ## Acknowledgments 🙏  
 
 Special thanks to Spotify for Developers for providing API access and making this analysis possible!  
+
+If you’d like to discuss or collaborate on future enhancements, feel free to reach out!
 
 Happy analyzing! 🎶🚀
